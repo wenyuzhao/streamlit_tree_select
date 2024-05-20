@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="streamlit-tree-select2",
-    version="0.0.6",
+    version="0.0.7",
     author="Schluca",
     author_email="",
     description="A simple and elegant checkbox tree for Streamlit.",
