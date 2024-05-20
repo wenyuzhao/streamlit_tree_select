@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="streamlit-tree-select",
+    name="streamlit-tree-select2",
     version="0.0.5",
     author="Schluca",
     author_email="",
